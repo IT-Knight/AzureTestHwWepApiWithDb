@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureWebApiWithDb", "AzureWebApiWithDb\AzureWebApiWithDb.csproj", "{33846A43-FA65-4F63-8F9B-B68FD2F1B4B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webapi.tests", "tests\webapi.tests.csproj", "{E593F335-EA60-410D-BF16-DE151C730CF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33846A43-FA65-4F63-8F9B-B68FD2F1B4B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33846A43-FA65-4F63-8F9B-B68FD2F1B4B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33846A43-FA65-4F63-8F9B-B68FD2F1B4B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33846A43-FA65-4F63-8F9B-B68FD2F1B4B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E593F335-EA60-410D-BF16-DE151C730CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E593F335-EA60-410D-BF16-DE151C730CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E593F335-EA60-410D-BF16-DE151C730CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E593F335-EA60-410D-BF16-DE151C730CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA5E9B1F-CE02-41EB-A74D-72B211994B8E}
+	EndGlobalSection
+EndGlobal
